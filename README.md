@@ -14,3 +14,7 @@ Esercizi Vari
 
 
 PreparazioneEsame  --->  14 files
+
+-------
+
+Totale = 60 esercizi svolti
