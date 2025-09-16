@@ -1,4 +1,4 @@
-# Esercizi Ingegneria del Software AA 2024/25 Fedozzi Andrea - 187159
+# Esercizi Ing. del Software AA 2024/25 Fedozzi Andrea (187159)
 
 Esercitazione1 (lezione 1)  --->  6 files
 
